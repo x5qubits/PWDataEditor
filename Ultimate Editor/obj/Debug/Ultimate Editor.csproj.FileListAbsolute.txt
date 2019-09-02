@@ -1,0 +1,10 @@
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\Ultimate Editor\bin\Debug\Ultimate Editor.exe.config
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\Ultimate Editor\obj\Debug\Ultimate Editor.csprojResolveAssemblyReference.cache
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\Ultimate Editor\obj\Debug\Ultimate_Editor.ElementEditor.resources
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\Ultimate Editor\obj\Debug\Ultimate_Editor.Properties.Resources.resources
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\Ultimate Editor\obj\Debug\Ultimate Editor.csproj.GenerateResource.Cache
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\Ultimate Editor\bin\Debug\Ultimate Editor.exe
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\Ultimate Editor\bin\Debug\Ultimate Editor.pdb
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\Ultimate Editor\bin\Debug\JHUI.dll
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\Ultimate Editor\obj\Debug\Ultimate Editor.exe
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\Ultimate Editor\obj\Debug\Ultimate Editor.pdb

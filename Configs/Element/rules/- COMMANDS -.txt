@@ -1,0 +1,18 @@
+################################################
+##### COMMANDS DESCRIPTION FOR RULES FILES #####
+################################################
+#
+# SETVERSION|7
+# set the version for the output file, | 7 = version number
+#
+# SETSIGNATURE|12288
+# set the signature for the output file, | 12288 = signature value
+#
+# REMOVELIST:0
+# remove a list, | 0 = list index
+#
+# REPLACEOFFSET:0|xx
+# replace the offset value of a list with the given hex bytes, | 0 = list index, xx = hex value example: A3-87-C7-BE
+#
+# REMOVEVALUE:0:1
+# remove a field from a list, | 0 = list index, 1 = field index

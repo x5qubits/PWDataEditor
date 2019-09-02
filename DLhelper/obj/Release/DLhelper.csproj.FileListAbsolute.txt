@@ -1,0 +1,9 @@
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\bin\Release\DLhelper.exe.config
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\bin\Release\DLhelper.exe
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\bin\Release\DLhelper.pdb
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\DLhelper\obj\Release\DLhelper.Form1.resources
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\DLhelper\obj\Release\DLhelper.Properties.Resources.resources
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\DLhelper\obj\Release\DLhelper.csproj.GenerateResource.Cache
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\DLhelper\obj\Release\DLhelper.exe
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\DLhelper\obj\Release\DLhelper.pdb
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\DLhelper\obj\Release\DLhelper.csprojResolveAssemblyReference.cache

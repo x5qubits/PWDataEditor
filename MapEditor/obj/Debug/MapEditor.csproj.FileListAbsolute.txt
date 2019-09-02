@@ -1,0 +1,8 @@
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\MapEditor\bin\Debug\MapEditor.exe
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\MapEditor\bin\Debug\MapEditor.pdb
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\MapEditor\obj\Debug\MapEditor.Properties.Resources.resources
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\MapEditor\obj\Debug\MapEditor.csproj.GenerateResource.Cache
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\MapEditor\obj\Debug\MapEditor.exe
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\MapEditor\obj\Debug\MapEditor.pdb
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\MapEditor\obj\Debug\MapEditor.MapEditorForm.resources
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\MapEditor\obj\Debug\MapEditor.csprojResolveAssemblyReference.cache

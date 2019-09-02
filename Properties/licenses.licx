@@ -1,0 +1,10 @@
+JHUI.Controls.JTabPage, JHUI, Version=5.1.0.3, Culture=neutral, PublicKeyToken=null
+JHUI.Controls.JPictureBox, JHUI, Version=5.1.0.3, Culture=neutral, PublicKeyToken=null
+JHUI.Controls.JButton, JHUI, Version=5.1.0.3, Culture=neutral, PublicKeyToken=null
+JHUI.Controls.JCheckBox, JHUI, Version=5.1.0.3, Culture=neutral, PublicKeyToken=null
+JHUI.Controls.JGroupBox, JHUI, Version=5.1.0.3, Culture=neutral, PublicKeyToken=null
+JHUI.Controls.JComboBox, JHUI, Version=5.1.0.3, Culture=neutral, PublicKeyToken=null
+JHUI.Controls.JLabel, JHUI, Version=5.1.0.3, Culture=neutral, PublicKeyToken=null
+JHUI.Forms.JForm, JHUI, Version=5.1.0.3, Culture=neutral, PublicKeyToken=null
+JHUI.Controls.JDataGridView, JHUI, Version=5.1.0.3, Culture=neutral, PublicKeyToken=null
+JHUI.Controls.JTextBox, JHUI, Version=5.1.0.3, Culture=neutral, PublicKeyToken=null

@@ -1,0 +1,18 @@
+##############################
+#### RULES FOR v12 -> v7 ####
+##############################
+
+SETVERSION|7
+SETSIGNATURE|12288
+
+
+REPLACEOFFSET:0|
+REPLACEOFFSET:20|
+REPLACEOFFSET:100|
+
+REMOVEVALUE:54:3
+
+REMOVEVALUE:69:7
+
+REMOVEVALUE:94:8
+

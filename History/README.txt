@@ -1,0 +1,1 @@
+﻿This Folder contains a Temporary DB of the opened Elements.

@@ -1,0 +1,7 @@
+﻿public enum DOWNLOAD_STATE
+{
+    COMPLEATE,
+    ERROR,
+    CANCELED,
+    DOWNLOADING
+}

@@ -1,0 +1,57 @@
+4-Mill
+5-Mill 2
+8-Blue transparent gate
+9-Gates
+10-Snowflakes
+11-Flashlight 1
+12-Flashlight 2
+13-Flashlight 3
+14-Flashlight 4
+15-Flashlight 5
+16-Yin Yang (TP)
+17-Luminous round
+18-Light from Heaven
+19-Teleport
+20-A pillar of light
+21-Circle (TP)
+22-Smoke. circle
+23-Yin Yang 1
+24-Yin Yang Purple
+25-Yin Yang Orange
+26-Yin Yang Green
+28-Yin Yang Yellow
+29-Fountain
+31-Light. ring
+32-Field 1
+33-Sphere 2
+34-Platform
+35-Treadmill
+36-Platform 2
+38-Bird
+39-Clear Stone
+40-Demon
+41-Red dym.koltso
+42-Spots
+43-Red Balloon
+44-Circle (TP)
+45-Arrow
+46-Yellow sphere
+47-Green area
+48-White area
+49-Blue sphere
+50-Purple area
+51-Rain
+53-Smoke
+55-Bush
+57-Light
+64-Pink Petal
+73-Fire Circle
+80-Storm Circle
+81-Lighting
+86-Sword in a rock
+92-Lost Forge
+93-Machine
+96-Xmas Decoration
+109-Fire Sprit
+113-Fire Sprit2
+114-Portal

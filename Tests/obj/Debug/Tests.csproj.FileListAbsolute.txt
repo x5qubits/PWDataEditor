@@ -1,0 +1,6 @@
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\Tests\bin\Debug\Tests.exe.config
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\Tests\bin\Debug\Tests.exe
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\Tests\bin\Debug\Tests.pdb
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\Tests\obj\Debug\Tests.exe
+C:\Users\IcyTeck\Documents\Visual Studio 2015\Projects\PWDataEditorPaied\Tests\obj\Debug\Tests.pdb
